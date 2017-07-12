@@ -1,0 +1,1475 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-03-28 17:49+0300\n"
+"PO-Revision-Date: 2017-03-29 21:39+0000\n"
+"Last-Translator: es support\n"
+"Language-Team: German (Germany)\n"
+"Language: de-DE\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Loco-Source-Locale: en-RU\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Loco-Project-Id: 21966\n"
+"X-Loco-Api-Version: 1.0.15 20170326-1\n"
+"X-Loco-Parser: loco_parse_po"
+
+#: loco:58da781252e1a1ed0d8b4567
+msgid "2 colums"
+msgstr "2 Spalten"
+
+#: loco:58da781252e1a1ed0d8b4568
+msgid "Add New"
+msgstr "Neu hinzufügen"
+
+#: loco:58da781252e1a1ed0d8b4569
+msgid "Add New Property"
+msgstr "Immobilie hinzufügen"
+
+#: loco:58da781252e1a1ed0d8b456a
+msgid "Add New Property Category"
+msgstr "Neue Kategorie hinzufügen"
+
+#: loco:58da781252e1a1ed0d8b456b
+msgid "Add New Status Category"
+msgstr "Neue Status hinzufügen"
+
+#: loco:58da781252e1a1ed0d8b456c
+msgid "Add New Type Category"
+msgstr "Neue Typ hinzufügen"
+
+#: loco:58da781252e1a1ed0d8b456d
+msgid "Add new field"
+msgstr "Neues Feld hinzufügen"
+
+#: loco:58da781252e1a1ed0d8b456e
+msgid "Address"
+msgstr "Adresse"
+
+#: loco:58da781252e1a1ed0d8b456f
+msgid "Address, City, ZIP"
+msgstr "Adresse, Stadt, PLZ"
+
+#: loco:58da781252e1a1ed0d8b4570
+msgid "Address:"
+msgstr "Adresse:"
+
+#: loco:58da781252e1a1ed0d8b4571
+msgid "After price"
+msgstr "Nach dem Preis"
+
+#: loco:58da781252e1a1ed0d8b4572
+msgid "All Properties"
+msgstr "Alle Immobilien"
+
+#: loco:58da781252e1a1ed0d8b4573
+msgid "All Property Categories"
+msgstr "Alle Immobilien Kategoris"
+
+#: loco:58da781252e1a1ed0d8b4574
+msgid "All Status Categories"
+msgstr "Alle Status-Kategorien"
+
+#: loco:58da781252e1a1ed0d8b4575
+msgid "All Types Categories"
+msgstr "Alle Typen Kategorien"
+
+#: loco:58da781252e1a1ed0d8b4576
+msgid "Amenities"
+msgstr "Ausstattung"
+
+#: loco:58da781252e1a1ed0d8b4577
+msgid "Appliances"
+msgstr "Ausstattung"
+
+#: loco:58da781252e1a1ed0d8b4578
+msgid "Archive Page"
+msgstr "Archiv Seite"
+
+#: loco:58da781252e1a1ed0d8b4579
+msgid "Are you sure you want to Copy it?"
+msgstr "Sind Sie sicher, Sie wollen, um es zu kopieren?"
+
+#: loco:58da781252e1a1ed0d8b457a
+msgid "Are you sure you want to delete it?"
+msgstr "Sind Sie sicher, dass Sie löschen möchten?"
+
+#: loco:58da781252e1a1ed0d8b457b
+msgid "Are you sure you want to publish it?"
+msgstr "Sind Sie sicher, Sie wollen, um es zu veröffentlichen?"
+
+#: loco:58da781252e1a1ed0d8b457c
+msgid "Are you sure you want to unpublish it?"
+msgstr "Sind Sie sicher, Sie wollen, um es zu verstecken?"
+
+#: loco:58da781252e1a1ed0d8b457d
+msgid "Area"
+msgstr "Wohnfläche"
+
+#: loco:58da781252e1a1ed0d8b457e
+msgid "Area & lot size"
+msgstr "Wohn- und Grundstücksfläche"
+
+#: loco:58da781252e1a1ed0d8b457f
+msgid "Area size"
+msgstr "Grundstücksfläche"
+
+#: loco:58da781252e1a1ed0d8b4580
+msgid "Author Page"
+msgstr "Autorenseite"
+
+#: loco:58da781252e1a1ed0d8b4581
+msgid "Basic facts"
+msgstr "Basisdaten"
+
+#: loco:58da781252e1a1ed0d8b4582
+msgid "Basic information"
+msgstr "Basis-Informationen"
+
+#: loco:58da781252e1a1ed0d8b4583
+msgid "Bathrooms"
+msgstr "Badezimmer"
+
+#: loco:58da781252e1a1ed0d8b4584
+msgid "Bathrooms:"
+msgstr "Badezimmer:"
+
+#: loco:58da781252e1a1ed0d8b4585
+msgid "Bedrooms"
+msgstr "Schlafzimmer"
+
+#: loco:58da781252e1a1ed0d8b4586
+msgid "Bedrooms:"
+msgstr "Schlafzimmer:"
+
+#: loco:58da781252e1a1ed0d8b4587
+msgid "Before price"
+msgstr "Vor dem Preis"
+
+#: loco:58da781252e1a1ed0d8b4588
+msgid "Built in"
+msgstr "Baujahr"
+
+#: loco:58da781252e1a1ed0d8b4589
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: loco:58da781252e1a1ed0d8b458a
+msgid "Category"
+msgstr "Kategorie"
+
+#: loco:58da781252e1a1ed0d8b458b
+msgid "Category Page"
+msgstr "Kategorie Seite"
+
+#: loco:58da781252e1a1ed0d8b458c
+msgid "Category:"
+msgstr "Kategorie:"
+
+#: loco:58da781252e1a1ed0d8b458d
+msgid "Choose Country"
+msgstr "Land auswählen"
+
+#: loco:58da781252e1a1ed0d8b458e
+msgid "Choose Your Theme"
+msgstr "Wähle dein Theme"
+
+#: loco:58da781252e1a1ed0d8b458f
+msgid "Cities"
+msgstr "Städte"
+
+#: loco:58da781252e1a1ed0d8b4590
+msgid "City"
+msgstr "Stadt"
+
+#: loco:58da781252e1a1ed0d8b4591
+msgid "Copy"
+msgstr "Kopieren"
+
+#: loco:58da781252e1a1ed0d8b4592
+msgid "Country"
+msgstr "Land"
+
+#: loco:58da781252e1a1ed0d8b4593
+msgid "Crop"
+msgstr "Zuschneiden "
+
+#: loco:58da781252e1a1ed0d8b4594
+msgid "Crop & shrink"
+msgstr "Zuschneiden und schrumpfen"
+
+#: loco:58da781252e1a1ed0d8b4595
+msgid "Currency"
+msgstr "Währung"
+
+#: loco:58da781252e1a1ed0d8b4596
+msgid "Currency sign place"
+msgstr "Währungsanzeige"
+
+#: loco:58da781252e1a1ed0d8b4597
+msgid "Dashboard"
+msgstr "Übersicht"
+
+#: loco:58da781252e1a1ed0d8b4598
+msgid "Data Manager"
+msgstr "Daten-Verwaltung"
+
+#: loco:58da781252e1a1ed0d8b4599
+msgid "Date Format"
+msgstr "Datumsformat"
+
+#: loco:58da781252e1a1ed0d8b459a
+msgid "Date added"
+msgstr "Datum des Eintrags"
+
+#: loco:58da781252e1a1ed0d8b459b
+msgid "Date format"
+msgstr "Datumsformat"
+
+#: loco:58da781252e1a1ed0d8b459c
+msgid "Default currency"
+msgstr "Standardwährung"
+
+#: loco:58da781252e1a1ed0d8b459d
+msgid "Delete"
+msgstr "Löschen"
+
+#: loco:58da781252e1a1ed0d8b459e
+msgid "Description"
+msgstr "Beschreibung"
+
+#: loco:58da781252e1a1ed0d8b459f
+msgid "Details"
+msgstr "Details"
+
+#: loco:58da781252e1a1ed0d8b45a0
+msgid "Dimensions"
+msgstr "Abmessungen"
+
+#: loco:58da781252e1a1ed0d8b45a1
+msgid "Disabled Layouts are available in"
+msgstr "Deaktivierte Layouts sind erhältlich in der"
+
+#: loco:58da781252e1a1ed0d8b45a2
+msgid "Disabled fields are available in"
+msgstr "Deaktivierte Felder sind erhältlich in der"
+
+#: loco:58da781252e1a1ed0d8b45a3
+msgid "Dollar, Euro, etc"
+msgstr "Dollar, Euro, etc"
+
+#: loco:58da781252e1a1ed0d8b45a4
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: loco:58da781252e1a1ed0d8b45a5
+msgid "Edit Property"
+msgstr "Immobilie bearbeiten"
+
+#: loco:58da781252e1a1ed0d8b45a6
+msgid "Edit Property Category"
+msgstr "Bearbeiten Immobilien Kategorie"
+
+#: loco:58da781252e1a1ed0d8b45a7
+msgid "Edit Status Category"
+msgstr "Bearbeiten Status-Kategorien"
+
+#: loco:58da781252e1a1ed0d8b45a8
+msgid "Edit Type Category"
+msgstr "Typ Kategorie bearbeiten"
+
+#: loco:58da781252e1a1ed0d8b45a9
+msgid "Estatik Pro"
+msgstr "Estatik Pro"
+
+#: loco:58da781252e1a1ed0d8b45aa
+msgid "Estatik Search"
+msgstr "Estatik-Suche"
+
+#: loco:58da781252e1a1ed0d8b45ab
+msgid "Featured"
+msgstr "Empfohlen"
+
+#: loco:58da781252e1a1ed0d8b45ac
+msgid "Features"
+msgstr "Funktionen"
+
+#: loco:58da781252e1a1ed0d8b45ad
+msgid "Filter by"
+msgstr "Filtern nach"
+
+#: loco:58da781252e1a1ed0d8b45ae
+msgid "Floors"
+msgstr "Stockwerke"
+
+#: loco:58da781252e1a1ed0d8b45af
+msgid "Foreclosure"
+msgstr "Zwangsvollstreckung"
+
+#: loco:58da781252e1a1ed0d8b45b0
+msgid ""
+"Full advanced version with extra portal management option, social sharing, "
+"additional widgets support, etc."
+msgstr ""
+"Volle erweiterte Version mit extra Portal-Management-Option, Social Sharing, "
+"zusätzliche Widgets Unterstützung, usw."
+
+#: loco:58da781252e1a1ed0d8b45b1
+msgid "General Settings"
+msgstr "Allgemeine Einstellungen"
+
+#: loco:58da781252e1a1ed0d8b45b2
+msgid "Get Support"
+msgstr "Support erhalten"
+
+#: loco:58da781252e1a1ed0d8b45b3
+msgid "Height"
+msgstr "Höhe"
+
+#: loco:58da781252e1a1ed0d8b45b4
+msgid "Hot"
+msgstr "Neu"
+
+#: loco:58da781252e1a1ed0d8b45b5
+msgid "Image"
+msgstr "Bild"
+
+#: loco:58da781252e1a1ed0d8b45b6
+msgid "Images"
+msgstr "Bilder"
+
+#: loco:58da781252e1a1ed0d8b45b7
+msgid "Key words"
+msgstr "Schlüsselwörter"
+
+#: loco:58da781252e1a1ed0d8b45b8
+msgid "Keywords:"
+msgstr "Schlüsselwörter:"
+
+#: loco:58da781252e1a1ed0d8b45b9
+msgid "Latitude"
+msgstr "Breitengrad"
+
+#: loco:58da781252e1a1ed0d8b45ba
+msgid "Layout"
+msgstr "Layout"
+
+#: loco:58da781252e1a1ed0d8b45bb
+msgid "Listings layout"
+msgstr "Listen-Layout"
+
+#: loco:58da781252e1a1ed0d8b45bc
+msgid "Listings view"
+msgstr "Immobilien Aussicht"
+
+#: loco:58da781252e1a1ed0d8b45bd
+msgid "Location"
+msgstr "Ort"
+
+#: loco:58da781252e1a1ed0d8b45be
+msgid "Longitude"
+msgstr "Längengrad"
+
+#: loco:58da781252e1a1ed0d8b45bf
+msgid "Lot size"
+msgstr "Grundstücksfläche"
+
+#: loco:58da781252e1a1ed0d8b45c0
+msgid "Lot size:"
+msgstr "Grundstücksgröße:"
+
+#: loco:58da781252e1a1ed0d8b45c1
+msgid "Manage"
+msgstr "Verwalten"
+
+#: loco:58da781252e1a1ed0d8b45c2
+msgid "Map"
+msgstr "Karte"
+
+#: loco:58da781252e1a1ed0d8b45c3
+msgid "Media"
+msgstr "Medien"
+
+#: loco:58da781252e1a1ed0d8b45c4
+msgid "My Listings"
+msgstr "Meine Listen"
+
+#: loco:58da781252e1a1ed0d8b45c5
+msgid "My listings"
+msgstr "Meine Listen"
+
+#: loco:58da781252e1a1ed0d8b45c6
+msgid "NO"
+msgstr "Nein"
+
+#: loco:58da781252e1a1ed0d8b45c7
+msgid "New Property"
+msgstr "Neue Immobilie"
+
+#: loco:58da781252e1a1ed0d8b45c8
+msgid "New Property Category"
+msgstr "Neue Immobilien Kategorie"
+
+#: loco:58da781252e1a1ed0d8b45c9
+msgid "New Status Category"
+msgstr "Neue Status Kategorie"
+
+#: loco:58da781252e1a1ed0d8b45ca
+msgid "New Type Category"
+msgstr "Neu Typ Kategorie"
+
+#: loco:58da781252e1a1ed0d8b45cb
+msgid "No"
+msgstr "Nein"
+
+#: loco:58da781252e1a1ed0d8b45cc
+msgid "No City"
+msgstr "Keine Stadt"
+
+#: loco:58da781252e1a1ed0d8b45cd
+msgid "No Image"
+msgstr "Kein Bild"
+
+#: loco:58da781252e1a1ed0d8b45ce
+msgid "No Properties found"
+msgstr "Keine Immobilie gefunden"
+
+#: loco:58da781252e1a1ed0d8b45cf
+msgid "No Properties found in the Trash"
+msgstr "Keine Immobilien im Papierkorb gefunden"
+
+#: loco:58da781252e1a1ed0d8b45d0
+msgid "No State"
+msgstr "Kein Bundesland"
+
+#: loco:58da781252e1a1ed0d8b45d1
+msgid "No record found."
+msgstr "Kein Eintrag gefunden."
+
+#: loco:58da781252e1a1ed0d8b45d2
+msgid "No record found. Please add new one."
+msgstr "Kein Eintrag gefunden. Bitte fügen Sie neue."
+
+#: loco:58da781252e1a1ed0d8b45d3
+msgid "No record found. please add new one."
+msgstr "Kein Eintrag gefunden. Bitte fügen Sie neue."
+
+#: loco:58da781252e1a1ed0d8b45d4
+msgid "Number of listings per page"
+msgstr "Anzahl der Listen pro Seite"
+
+#: loco:58da781252e1a1ed0d8b45d5
+msgid "OK"
+msgstr "OK"
+
+#: loco:58da781252e1a1ed0d8b45d6
+msgid "Ok"
+msgstr "OK"
+
+#: loco:58da781252e1a1ed0d8b45d7
+msgid "Open house"
+msgstr "Offenes Haus"
+
+#: loco:58da781252e1a1ed0d8b45d8
+msgid "PDF flayer"
+msgstr "PDF-Flyer"
+
+#: loco:58da781252e1a1ed0d8b45d9
+msgid "Parent Property Category"
+msgstr "Parent-Immobilien Kategorie"
+
+#: loco:58da781252e1a1ed0d8b45da
+msgid "Parent Property Category:"
+msgstr "Parent-Immobilien Kategorie"
+
+#: loco:58da781252e1a1ed0d8b45db
+msgid "Parent Status Category"
+msgstr "Mutter Status Kategorie"
+
+#: loco:58da781252e1a1ed0d8b45dc
+msgid "Parent Status Category:"
+msgstr "Mutter Status Kategorie:"
+
+#: loco:58da781252e1a1ed0d8b45dd
+msgid "Parent Type Category"
+msgstr "Typ Kategorie"
+
+#: loco:58da781252e1a1ed0d8b45de
+msgid "Parent Type Category:"
+msgstr "Typ Kategorie"
+
+#: loco:58da781252e1a1ed0d8b45df
+msgid "Period"
+msgstr "Zeitraum"
+
+#: loco:58da781252e1a1ed0d8b45e0
+msgid "Photo <br /> Thumb"
+msgstr "Foto-<br />Miniatur"
+
+#: loco:58da781252e1a1ed0d8b45e1
+msgid "Photo <br />in center"
+msgstr "Foto<br />zentriert"
+
+#: loco:58da781252e1a1ed0d8b45e2
+msgid "Photo on<br />the left/right"
+msgstr "Foto<br />links/rechts"
+
+#: loco:58da781252e1a1ed0d8b45e3
+msgid "Please Edit your property detail and click save to finish."
+msgstr ""
+"Bitte bearbeiten Sie Ihre Immobiliendetails und klicken Sie dann auf "
+"Speichern."
+
+#: loco:58da781252e1a1ed0d8b45e4
+msgid "Please enter numbers only."
+msgstr "Bitte geben Sie nur Zahlen ein."
+
+#: loco:58da781252e1a1ed0d8b45e5
+msgid "Please fill up your Settings detail and click save to finish."
+msgstr ""
+"Bitte konfigurieren Sie Ihre Einstellungen detaillierter und auf Speichern "
+"klicken, um zu beenden."
+
+#: loco:58da781252e1a1ed0d8b45e6
+msgid "Please fill up your property detail and click save to finish."
+msgstr ""
+"Bitte füllen Sie Ihre Immobilien Detail und klicken Sie auf Speichern, um zu "
+"beenden."
+
+#: loco:58da781252e1a1ed0d8b45e7
+msgid "Please fill your field."
+msgstr "Bitte füllen Sie Ihrem Feld."
+
+#: loco:58da781252e1a1ed0d8b45e8
+msgid "Please select properties you want to copy."
+msgstr "Bitte wählen Sie Immobilien, die Sie kopieren möchten."
+
+#: loco:58da781252e1a1ed0d8b45e9
+msgid "Please select properties you want to delete."
+msgstr "Bitte wählen Sie Immobilien, die Sie löschen möchten."
+
+#: loco:58da781252e1a1ed0d8b45ea
+msgid "Please select properties you want to publish."
+msgstr "Bitte wählen Sie Immobilien, die Sie veröffentlichen möchten."
+
+#: loco:58da781252e1a1ed0d8b45eb
+msgid "Please select properties you want to unpublish."
+msgstr "Bitte wählen Sie Immobilien, die Sie verstecken möchten. "
+
+#: loco:58da781252e1a1ed0d8b45ec
+msgid "Please upload your"
+msgstr "Bitte hochladen"
+
+#: loco:58da781252e1a1ed0d8b45ed
+msgid "Powered by"
+msgstr "Unterstützt von"
+
+#: loco:58da781252e1a1ed0d8b45ee
+msgid "Powered by link"
+msgstr "„Unterstützt von“-Link"
+
+#: loco:58da781252e1a1ed0d8b45ef
+msgid "Price"
+msgstr "Preis"
+
+#: loco:58da781252e1a1ed0d8b45f0
+msgid "Price format"
+msgstr "Preis-Format"
+
+#: loco:58da781252e1a1ed0d8b45f1
+msgid "Price:"
+msgstr "Preis:"
+
+#: loco:58da781252e1a1ed0d8b45f2
+msgid "Properties"
+msgstr "Immobilien"
+
+#: loco:58da781252e1a1ed0d8b45f3
+msgid "Properties by Agent"
+msgstr "Immobilien von Agent"
+
+#: loco:58da781252e1a1ed0d8b45f4
+msgid "Properties details"
+msgstr "Immobiliendetails"
+
+#: loco:58da781252e1a1ed0d8b45f5
+msgid "Property Categories"
+msgstr "Immobilien-Kategorien"
+
+#: loco:58da781252e1a1ed0d8b45f6
+msgid "Property Category"
+msgstr "Immobilien-Kategorie"
+
+#: loco:58da781252e1a1ed0d8b45f7
+msgid "Property ID"
+msgstr "Immobilien-ID"
+
+#: loco:58da781252e1a1ed0d8b45f8
+msgid "Property Status"
+msgstr "Immobilien-Status"
+
+#: loco:58da781252e1a1ed0d8b45f9
+msgid "Property Types"
+msgstr "Immobilientyp"
+
+#: loco:58da781252e1a1ed0d8b45fa
+msgid "Property has been deleted."
+msgstr "Immobilie wurde gelöscht."
+
+#: loco:58da781252e1a1ed0d8b45fb
+msgid "Property has been updated."
+msgstr "Immobilie wurde aktualisiert."
+
+#: loco:58da781252e1a1ed0d8b45fc
+msgid "Publish"
+msgstr "Veröffentlichen"
+
+#: loco:58da781252e1a1ed0d8b45fd
+msgid "Rent Period"
+msgstr "Mietzeit"
+
+#: loco:58da781252e1a1ed0d8b45fe
+msgid "Rent period"
+msgstr "Mietzeit"
+
+#: loco:58da781252e1a1ed0d8b45ff
+msgid "Reset"
+msgstr "Zurücksetzen"
+
+#: loco:58da781252e1a1ed0d8b4600
+msgid "Resize method"
+msgstr "Resize-Methode"
+
+#: loco:58da781252e1a1ed0d8b4601
+msgid "Save"
+msgstr "Speichern"
+
+#: loco:58da781252e1a1ed0d8b4602
+msgid "Save & Close"
+msgstr "Speichern & Schließen"
+
+#: loco:58da781252e1a1ed0d8b4603
+msgid "Search"
+msgstr "Suchen"
+
+#: loco:58da781252e1a1ed0d8b4604
+msgid "Search Page"
+msgstr "Suchseite"
+
+#: loco:58da781252e1a1ed0d8b4605
+msgid "Search Properties"
+msgstr "Immobilie suchen"
+
+#: loco:58da781252e1a1ed0d8b4606
+msgid "Search Property Categories"
+msgstr "Suchen der Immobilien-Kategorien"
+
+#: loco:58da781252e1a1ed0d8b4607
+msgid "Search Status Categories"
+msgstr "Suche nach Kategorien"
+
+#: loco:58da781252e1a1ed0d8b4608
+msgid "Search Title:"
+msgstr "Suche Titel:"
+
+#: loco:58da781252e1a1ed0d8b4609
+msgid "Search Types Categories"
+msgstr "Suchen nach Kategorien"
+
+#: loco:58da781252e1a1ed0d8b460a
+msgid "Select Pages"
+msgstr "Seiten auswählen"
+
+#: loco:58da781252e1a1ed0d8b460b
+msgid "Select all"
+msgstr "Alle auswählen"
+
+#: loco:58da781252e1a1ed0d8b460c
+msgid "Select files or upload images in a zip-file."
+msgstr "Dateien auswählen oder Bilder in einer ZIP-Datei hochladen."
+
+#: loco:58da781252e1a1ed0d8b460d
+msgid "Selected properties have been copied."
+msgstr "Ausgewählte Immobilienobjekte kopiert wurden."
+
+#: loco:58da781252e1a1ed0d8b460e
+msgid "Selected properties have been deleted."
+msgstr "Ausgewählte Immobilien wurden gelöscht."
+
+#: loco:58da781252e1a1ed0d8b460f
+msgid "Selected properties have been published."
+msgstr "Ausgewählte Immobilienobjekte veröffentlicht wurden."
+
+#: loco:58da781252e1a1ed0d8b4610
+msgid "Selected properties have been unpublished."
+msgstr "Ausgewählte Immobilienobjekte wurden versteckt."
+
+#: loco:58da781252e1a1ed0d8b4611
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: loco:58da781252e1a1ed0d8b4612
+msgid "Settings has been updated."
+msgstr "Einstellungen wurden aktualisiert."
+
+#: loco:58da781252e1a1ed0d8b4613
+msgid "Sharing"
+msgstr "Teilen"
+
+#: loco:58da781252e1a1ed0d8b4614
+msgid "Sharing Feature is available in"
+msgstr "Sharing-Funktion ist in"
+
+#: loco:58da781252e1a1ed0d8b4615
+msgid "Show On Pages"
+msgstr "Zeigen Sie auf den Seiten"
+
+#: loco:58da781252e1a1ed0d8b4616
+msgid "Single Page"
+msgstr "Einzelne Seite"
+
+#: loco:58da781252e1a1ed0d8b4617
+msgid "Single property"
+msgstr "Einzel-Immobilie"
+
+#: loco:58da781252e1a1ed0d8b4618
+msgid "Sq ft"
+msgstr "Quadratmeter"
+
+#: loco:58da781252e1a1ed0d8b4619
+msgid "Sqft:"
+msgstr "Quadratmeter"
+
+#: loco:58da781252e1a1ed0d8b461a
+msgid "State/Region"
+msgstr "Bundesland"
+
+#: loco:58da781252e1a1ed0d8b461b
+msgid "States/Regions"
+msgstr "Bundesländer / Regionen"
+
+#: loco:58da781252e1a1ed0d8b461c
+msgid "Status"
+msgstr "Status"
+
+#: loco:58da781252e1a1ed0d8b461d
+msgid "Status Categories"
+msgstr "Status Kategorien"
+
+#: loco:58da781252e1a1ed0d8b461e
+msgid "Step-by-step guide"
+msgstr "Schritt-für-Schritt-Anleitung"
+
+#: loco:58da781252e1a1ed0d8b461f
+msgid "Street"
+msgstr "Straße"
+
+#: loco:58da781252e1a1ed0d8b4620
+msgid "Submit a Ticket"
+msgstr "Ticket einreichen"
+
+#: loco:58da781252e1a1ed0d8b4621
+msgid "Table"
+msgstr "Tabelle"
+
+#: loco:58da781252e1a1ed0d8b4622
+msgid ""
+"The first image will be default image. You can drag and drop images to "
+"change their order."
+msgstr ""
+"Das erste Bild wird das Standardbild. Sie können per Drag&Drop die "
+"Reihenfolge der Bilder ändern."
+
+#: loco:58da781252e1a1ed0d8b4623
+msgid "Title"
+msgstr "Titel"
+
+#: loco:58da781252e1a1ed0d8b4624
+msgid "Title/Address"
+msgstr "Titel/Adresse"
+
+#: loco:58da781252e1a1ed0d8b4625
+msgid "To top"
+msgstr "Nach oben"
+
+#: loco:58da781252e1a1ed0d8b4626
+msgid "Type"
+msgstr "Typ"
+
+#: loco:58da781252e1a1ed0d8b4627
+msgid "Type Categories"
+msgstr "Typ Kategorien"
+
+#: loco:58da781252e1a1ed0d8b4628
+msgid "Type:"
+msgstr "Typ:"
+
+#: loco:58da781252e1a1ed0d8b4629
+msgid "Undo selection"
+msgstr "Auswahl aufheben"
+
+#: loco:58da781252e1a1ed0d8b462a
+msgid "Unpublish"
+msgstr "Verstecken"
+
+#: loco:58da781252e1a1ed0d8b462b
+msgid "Update Property Category"
+msgstr "Aktualisieren Immobilienkategorie"
+
+#: loco:58da781252e1a1ed0d8b462c
+msgid "Update Status Category"
+msgstr "Aktualisieren Statuskategorie"
+
+#: loco:58da781252e1a1ed0d8b462d
+msgid "Update Type Category"
+msgstr "Aktualisieren Typkategorie"
+
+#: loco:58da781252e1a1ed0d8b462e
+msgid "Upload"
+msgstr "Hochladen"
+
+#: loco:58da781252e1a1ed0d8b462f
+msgid "Upload Downloaded Estatik Pro"
+msgstr "Estatik Pro hochladen"
+
+#: loco:58da781252e1a1ed0d8b4630
+msgid "Upload Zip"
+msgstr "ZIP hochladen"
+
+#: loco:58da781252e1a1ed0d8b4631
+msgid "Video Tutorial"
+msgstr "Video-Tutorial"
+
+#: loco:58da781252e1a1ed0d8b4632
+msgid "View Properties"
+msgstr "Immobilie ansehen"
+
+#: loco:58da781252e1a1ed0d8b4633
+msgid "View first"
+msgstr "Sortieren nach"
+
+#: loco:58da781252e1a1ed0d8b4634
+msgid "View on map"
+msgstr "Auf Karte ansehen"
+
+#: loco:58da781252e1a1ed0d8b4635
+msgid "Widht"
+msgstr "Breite"
+
+#: loco:58da781252e1a1ed0d8b4636
+msgid "Yes"
+msgstr "Ja"
+
+#: loco:58da781252e1a1ed0d8b4637
+msgid "Your search results."
+msgstr "Deine Suchergebnisse."
+
+#: loco:58da781252e1a1ed0d8b4638
+msgid "ZIP/Postcode"
+msgstr "PLZ (Postleitzahl)"
+
+#: loco:58da781252e1a1ed0d8b4639
+msgid "bath"
+msgid_plural "baths"
+msgstr[0] "Bad"
+msgstr[1] "Bäder"
+
+#: loco:58da781252e1a1ed0d8b463b
+msgid "field has been added."
+msgstr "Feld wurde hinzugefügt."
+
+#: loco:58da781252e1a1ed0d8b463c
+msgid "field has been deleted."
+msgstr "Feld wurde gelöscht."
+
+#: loco:58da781252e1a1ed0d8b463d
+msgid "foreclosure"
+msgstr "Abschottung"
+
+#: loco:58da781252e1a1ed0d8b463e
+msgid "hot"
+msgstr "neu"
+
+#: loco:58da781252e1a1ed0d8b463f
+msgid "list"
+msgstr "Liste"
+
+#: loco:58da781252e1a1ed0d8b4640
+msgid "max"
+msgstr "max"
+
+#: loco:58da781252e1a1ed0d8b4641
+msgid "min"
+msgstr "min"
+
+#: loco:58da781252e1a1ed0d8b4642
+msgid "openhouse"
+msgstr "offenes Haus"
+
+#: loco:58da781252e1a1ed0d8b4643
+msgid "version"
+msgstr "Version"
+
+#: loco:58da781252e1a1ed0d8b4644
+msgid ""
+"version in zip format and click upload to finish for update to pro Version."
+msgstr ""
+"Version im ZIP-Format und klicken Sie auf Hochladen, um Update auf Pro-"
+"Version zu beenden."
+
+#: loco:58da781252e1a1ed0d8b4645
+msgid "version only"
+msgstr "nur Version"
+
+#: loco:58da783a52e1a1040e8b4567
+msgid "About"
+msgstr "Etwa"
+
+#: loco:58da783a52e1a1040e8b4568
+msgid "Add New Agent"
+msgstr "Hinzufügen neuer Agent"
+
+#: loco:58da783a52e1a1040e8b4569
+msgid "Add New Subscription"
+msgstr "Fügen ein neues Abonnement"
+
+#: loco:58da783a52e1a1040e8b456a
+msgid "Add Subscription"
+msgstr "Fügen ein Abonnement"
+
+#: loco:58da783a52e1a1040e8b456b
+msgid "Agents"
+msgstr "Agenten"
+
+#: loco:58da783a52e1a1040e8b456c
+msgid "All properties"
+msgstr "Alle Objekte"
+
+#: loco:58da783a52e1a1040e8b456d
+msgid "Automatic"
+msgstr "Automatisch"
+
+#: loco:58da783a52e1a1040e8b456e
+msgid "Choose theme color style"
+msgstr "Wählen Sie die Farbe des Themas"
+
+#: loco:58da783a52e1a1040e8b456f
+msgid "Company"
+msgstr "Unternehmen"
+
+#: loco:58da783a52e1a1040e8b4570
+msgid "Dark"
+msgstr "Dunkel"
+
+#: loco:58da783a52e1a1040e8b4571
+msgid "Enable Subscriptions"
+msgstr "Aktivieren Abonnements"
+
+#: loco:58da783a52e1a1040e8b4572
+msgid "Extra settings"
+msgstr "Weitere Einstellungen"
+
+#: loco:58da783a52e1a1040e8b4573
+msgid "Featured properties"
+msgstr "Heißes Angebot"
+
+#: loco:58da783a52e1a1040e8b4574
+msgid ""
+"Hello, Your subscription plan period ends today. Please renew your "
+"subscription and click here >> to proceed. Otherwise your listings will be "
+"unpublished. Thank you."
+msgstr ""
+"Добрый день, \n"
+"Ваша подписка заканчивается сегодня. Пожалуйста, обновите план подписки "
+"здесь >> . В противном случае ваши объекты будут сняты с публикации. Мы "
+"благодарим Вас. "
+
+#: loco:58da783a52e1a1040e8b4575
+msgid ""
+"Here you can create plans that will meet your website requirements and be "
+"most profitable for you."
+msgstr ""
+"Hier können Sie Pläne erstellen, die Ihre Website Anforderungen gerecht wird "
+"und am rentabelsten sein für Sie."
+
+#: loco:58da783a52e1a1040e8b4576
+msgid "Icons color"
+msgstr "Farbe der Icons"
+
+#: loco:58da783a52e1a1040e8b4577
+msgid "Icons type"
+msgstr "Art der Icons"
+
+#: loco:58da783a52e1a1040e8b4578
+msgid "Light"
+msgstr "Hell"
+
+#: loco:58da783a52e1a1040e8b4579
+msgid "Listing publishing"
+msgstr "Immobilien Veröffentlichen"
+
+#: loco:58da783a52e1a1040e8b457a
+msgid "Manage properties page"
+msgstr "Verwalten Eigenschaftenseite"
+
+#: loco:58da783a52e1a1040e8b457b
+msgid "Manual"
+msgstr "von Hand"
+
+#: loco:58da783a52e1a1040e8b457c
+msgid "Map View"
+msgstr "Karte Einstellungen"
+
+#: loco:58da783a52e1a1040e8b457d
+msgid "Map zoom level (default value is 12)"
+msgstr "Karte Zoomstufe (Standardwert ist 12)"
+
+#: loco:58da783a52e1a1040e8b457e
+msgid "Menu is empty."
+msgstr "Menü ist leer."
+
+#: loco:58da783a52e1a1040e8b457f
+msgid "Month"
+msgstr "Monat"
+
+#: loco:58da783a52e1a1040e8b4580
+msgid "Number of listings to show"
+msgstr "Anzahl der Immobilien, um zu zeigen,"
+
+#: loco:58da783a52e1a1040e8b4581
+msgid "Number of properties"
+msgstr "Anzahl der Objekte"
+
+#: loco:58da783a52e1a1040e8b4582
+msgid "Openhouse"
+msgstr "Offenes Haus"
+
+#: loco:58da783a52e1a1040e8b4583
+msgid "Order status"
+msgstr "Bestellstatus"
+
+#: loco:58da783a52e1a1040e8b4584
+msgid "Orders"
+msgstr "Aufträge"
+
+#: loco:58da783a52e1a1040e8b4585
+msgid "PDF flyer"
+msgstr "PDF Broschüre"
+
+#: loco:58da783a52e1a1040e8b4586
+msgid "Paypal API Mode"
+msgstr "PayPal API Modus"
+
+#: loco:58da783a52e1a1040e8b4587
+msgid "Paypal Type"
+msgstr "PayPal Typ"
+
+#: loco:58da783a52e1a1040e8b4588
+msgid "Paypal email"
+msgstr "Email PayPal"
+
+#: loco:58da783a52e1a1040e8b4589
+msgid ""
+"Please create or edit your subscription plan here. Do not forget to click on "
+"save button."
+msgstr ""
+"Bitte erstellen oder Ihr Abonnement hier bearbeiten. Vergessen Sie nicht "
+"speichern, Schaltfläche zu klicken"
+
+#: loco:58da783a52e1a1040e8b458a
+msgid ""
+"Please create pages with shortcodes below to display map on your website"
+msgstr ""
+"Bitte erstellen Seiten mit Kurzwahlnummern unten Anzeige Karte auf Ihrer "
+"Webseite."
+
+#: loco:58da783a52e1a1040e8b458b
+msgid "Please fill up your agent information below and click save to finish."
+msgstr ""
+"Bitte füllen Sie Ihre Agenteninformationen ein und klicken Sie beenden "
+"speichern."
+
+#: loco:58da783a52e1a1040e8b458c
+msgid "Price, $"
+msgstr "Preis, EUR"
+
+#: loco:58da783a52e1a1040e8b458d
+msgid "Properties for rent"
+msgstr "Immobilien zu vermieten"
+
+#: loco:58da783a52e1a1040e8b458e
+msgid "Properties for sale"
+msgstr "Immobilien zum Verkauf"
+
+#: loco:58da783a52e1a1040e8b458f
+msgid "Rating"
+msgstr "Wertung"
+
+#: loco:58da783a52e1a1040e8b4590
+msgid "Registration page"
+msgstr "Registrierungsseite"
+
+#: loco:58da783a52e1a1040e8b4591
+msgid "Renewal Price"
+msgstr "Verlängerungspreis"
+
+#: loco:58da783a52e1a1040e8b4592
+msgid "Select subscription"
+msgstr "Выберите подписку"
+
+#: loco:58da783a52e1a1040e8b4593
+msgid "Shortcodes"
+msgstr "Shortcodes"
+
+#: loco:58da783a52e1a1040e8b4594
+msgid "Sold properties"
+msgstr "Verkauft Immobilien"
+
+#: loco:58da783a52e1a1040e8b4595
+msgid "Specific properties"
+msgstr "Spezifische Eigenschaften"
+
+#: loco:58da783a52e1a1040e8b4596
+msgid "Subscription"
+msgstr "Abonnement"
+
+#: loco:58da783a52e1a1040e8b4597
+msgid "Subscription Paypal settings"
+msgstr "PayPal-Einstellungen"
+
+#: loco:58da783a52e1a1040e8b4598
+msgid "Subscription expired email settings"
+msgstr "Schreiben Abonnement Abschluss Einstellungen"
+
+#: loco:58da783a52e1a1040e8b4599
+msgid "Subscription expired message"
+msgstr "Der Text des Briefes"
+
+#: loco:58da783a52e1a1040e8b459a
+msgid "Subscription expired subject"
+msgstr "Die Betreffzeile "
+
+#: loco:58da783a52e1a1040e8b459b
+msgid "Subscription period"
+msgstr "Zeichnungsfrist"
+
+#: loco:58da783a52e1a1040e8b459c
+msgid "Subscription settings"
+msgstr "Abonnement-Einstellungen"
+
+#: loco:58da783a52e1a1040e8b459d
+msgid "Subscriptions"
+msgstr "Abonnement"
+
+#: loco:58da783a52e1a1040e8b459e
+msgid "Subscriptions table page"
+msgstr "Abonnements Tabelle Seite"
+
+#: loco:58da783a52e1a1040e8b459f
+msgid "Update Subscription"
+msgstr "Erneuern Sie Ihr Abonnement"
+
+#: loco:58da783a52e1a1040e8b45a0
+msgid "User name"
+msgstr "Benutzername"
+
+#: loco:58da783a52e1a1040e8b45a1
+msgid "View first menu"
+msgstr "Sortieren nach Menü"
+
+#: loco:58da783a52e1a1040e8b45a2
+msgid "Week"
+msgstr "Woche"
+
+#: loco:58da783a52e1a1040e8b45a3
+msgid "Year"
+msgstr "Jahr"
+
+#: loco:58da783a52e1a1040e8b45a5
+msgid "bed"
+msgid_plural "beds"
+msgstr[0] "Zimmer"
+msgstr[1] "Zimmer"
+
+#: loco:58da783a52e1a1040e8b45a6
+msgid "text/number"
+msgstr "Text/Nummer"
+
+#: loco:58da7bbd52e1a11a0f8b4567
+msgid "By Name:"
+msgstr "Nach Namen:"
+
+#: loco:58da7bbd52e1a11a0f8b4568
+msgid "Name"
+msgstr "Name"
+
+#: loco:58da7bbd52e1a11a0f8b4569
+msgid "PDF Player"
+msgstr "PDF Player"
+
+#: loco:58da7bbd52e1a11a0f8b456a
+msgid "Photo/Logo"
+msgstr "Foto/Logo"
+
+#: loco:58da7bbd52e1a11a0f8b456b
+msgid "Update subscription"
+msgstr "Abonnement aktualisieren"
+
+#: loco:58da7bbd52e1a11a0f8b456c
+msgid "baths"
+msgstr "Bäder"
+
+#: loco:58da7bbd52e1a11a0f8b456d
+msgid "beds"
+msgstr "Betten"
+
+msgid "Add new property"
+msgstr "Neue Immobilie hinzufügen"
+
+msgid "CSV import"
+msgstr "CSV Import"
+
+msgid "Add subscription"
+msgstr "Abonnement hinzufügen"
+
+msgid "Add new"
+msgstr "Neue hinzufügen"
+
+msgid "Data manager"
+msgstr "Datenmanager"
+
+msgid "Video-Tutorial"
+msgstr "Videoanleitung"
+
+msgid "Submit a ticket"
+msgstr "Ein Ticket einreichen"
+
+msgid "Select / Deselect all"
+msgstr "Auswahl / Ausschluss aller"
+
+msgid "Call for price"
+msgstr "Preis auf Anfrage"
+
+msgid "Open-house"
+msgstr "Offenes Haus"
+
+msgid "Year built"
+msgstr "Baujahr"
+
+msgid "Please enter Google Map API key in General Settings of the plugin."
+msgstr ""
+"Bitte geben Sie den Google Map API Key in Allgemeine Einstellungen des "
+"Plugins ein."
+
+msgid ""
+"Here you can add video and upload images. Please enter video code in iframe "
+"format, e.g. -"
+msgstr ""
+"Hier können Sie Videos hinzufügen und Bilder hochladen. Bitte geben Sie den "
+"Video-Code im iframe-Format ein, z.B. -"
+
+msgid "Embed the code:"
+msgstr "Den Code einbetten:"
+
+msgid "Add image(s)"
+msgstr "Bild(er) hinzufügen"
+
+msgid "Categories"
+msgstr "Kategorien"
+
+msgid "Types"
+msgstr "Typen"
+
+msgid "Labels"
+msgstr "Etiketten"
+
+msgid "Properties Q-ty"
+msgstr "Immobilien Menge"
+
+msgid "Website:"
+msgstr "Webseite:"
+
+msgid "Password:"
+msgstr "Passwort:"
+
+msgid "Profile photo:"
+msgstr "Profilfoto:"
+
+msgid "IMPORT PROPERTIES"
+msgstr "Immobilien importieren"
+
+msgid ""
+"Please Import your property detail with CSV sample and click save to finish. "
+"Download Sample File"
+msgstr ""
+"Bitte importiere dein Immobilien Detail mit CSV Probe und Klick speichern, "
+"um zu beenden. Beispieldatei herunterladen"
+
+msgid "Choose source file:"
+msgstr "Wählen Sie Quelldatei:"
+
+msgid "Property status:"
+msgstr "Immobilien-Status:"
+
+msgid "Choose File"
+msgstr "Datei wählen"
+
+msgid "No file chosen"
+msgstr "Keine Datei ausgewählt"
+
+msgid "Skip first line"
+msgstr "Erste Zeile überspringen"
+
+msgid "Choose Import Fields"
+msgstr "Wählen Felder importieren"
+
+msgid "-- Choose field for import --"
+msgstr "- Wählen das Feld für den Import -"
+
+msgid "CSV delimiter"
+msgstr "CSV-Trennzeichen"
+
+msgid "Property title"
+msgstr "Immobilientitel"
+
+msgid "Start import"
+msgstr "Starten den Import"
+
+msgid "Subscription data"
+msgstr "Abonnementdaten"
+
+msgid "Property qty"
+msgstr "Anzahl der Immobilien"
+
+msgid "Featured qty"
+msgstr "Anzahl der Empfohlen"
+
+msgid "Price renewal"
+msgstr "Preis Erneuerung"
+
+msgid "Trial period"
+msgstr "Probezeit"
+
+msgid "-- Select trial period --"
+msgstr "-- Probezeit wählen --"
+
+msgid "General"
+msgstr "Allgemein"
+
+msgid "Map view"
+msgstr "Kartenansicht"
+
+msgid "Show price:"
+msgstr "Preis anzeigen:"
+
+msgid "Title / Address:"
+msgstr "Titel / Adresse:"
+
+msgid "Show Address:"
+msgstr "Adresse anzeigen:"
+
+msgid "Show Labels:"
+msgstr "Labels anzeigen:"
+
+msgid "Theme style:"
+msgstr "Themen Stil:"
+
+msgid "Google map API key:"
+msgstr "Google Map API Schlüssel:"
+
+msgid "Admin Logo image:"
+msgstr "Admin Logo Bild:"
+
+msgid "Admin Logo Width:"
+msgstr "Admin Logo Breite:"
+
+msgid "Admin Logo Height:"
+msgstr "Admin Logo Höhe:"
+
+msgid "Single property layout:"
+msgstr "Einzel Immobilie-Layout:"
+
+msgid "SET MAP MARKERS"
+msgstr "KARTENMARKIERUNGEN SETZEN"
+
+msgid "Width:"
+msgstr "Breite:"
+
+msgid "- Properties by type"
+msgstr "- Immobilien nach Typ"
+
+msgid "- Properties by category"
+msgstr "- Immobilien nach Kategorie"
+
+msgid "- Properties by status"
+msgstr "- Immobilien nach Status"
+
+msgid "- Properties by rent period"
+msgstr "- Immobilien nach Mietdauer"
+
+msgid "- Num properties for display"
+msgstr "- Anzahl der Immobilien für Anzeige"
+
+msgid "Enable subscriptions:"
+msgstr "Abonnements aktivieren:"
+
+msgid "PayPal Subscription settings"
+msgstr "PayPal Abonnementeinstellungen"
+
+msgid "PayPal mode:"
+msgstr "PayPal-Modus:"
+
+msgid "Live"
+msgstr "Lebend"
+
+msgid "Sandbox (test mode)"
+msgstr "Sandbox (Testmodus)"
+
+msgid "PayPal Username:"
+msgstr "PayPal Benutzername:"
+
+msgid "PayPal password:"
+msgstr "PayPal Passwort:"
+
+msgid "Signature:"
+msgstr "Unterschrift:"
+
+msgid "PayPal Response Page:"
+msgstr "PayPal Antwort Seite:"
+
+msgid "-- Select PayPal Success Page --"
+msgstr "-- Wählen PayPal Erfolg Seite --"
+
+msgid ""
+"Use [es_subscription_paypal_response_page] shortcode if you want create a "
+"custom PayPal page."
+msgstr ""
+"Verwenden Sie [es_subscription_paypal_response_page] shortcode, wenn Sie "
+"eine benutzerdefinierte PayPal-Seite erstellen möchten."
+
+msgid "PayPal Return URL:"
+msgstr "PayPal Rücksende URL:"
+
+msgid "PayPal Cancel URL:"
+msgstr "PayPal Abbrechen URL:"
+
+msgid "PayPal Notify URL (for IPN):"
+msgstr "PayPal benachrichtigen URL (für IPN):"
+
+msgid "Please fill up your settings details and click save to finish."
+msgstr "Bitte füllen Sie Ihre Einstellungen aus und klicken Sie auf Speichern."
+
+msgid "Add new item"
+msgstr "Neues Element hinzufügen"
+
+msgid "GET SUPPORT"
+msgstr "ERHALTEN UNTERSTÜTZUNG"
+
+msgid "CHANGELOG"
+msgstr "ÄNDERUNGSPROTOKOLL"
+
+msgid "RELATED SERVICES"
+msgstr "VERWANDTE DIENSTLEISTUNGEN"

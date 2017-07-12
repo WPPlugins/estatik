@@ -1,0 +1,52 @@
+$field-wrapper-max-width: 480px;
+$field-label-width: 50%;
+$field-content-width: 100% - $field-label-width;
+
+.es-field {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  max-width: $field-wrapper-max-width;
+  min-height: 30px;
+  margin: 8px 0;
+
+  &.es-field-hidden {
+    display: none;
+  }
+
+  .es-field__label {
+    flex: 0 1 $field-label-width;
+  }
+
+  .es-field__content {
+    display: flex;
+    align-items: center;
+    flex: 1 0 $field-content-width;
+
+    input, select {
+      width: 100%;
+    }
+  }
+
+  &.es-field-custom {
+    .es-field__content {
+      justify-content: space-between;
+
+      input:first-child, select:first-child {
+        width: 90%;
+      }
+
+      a.js-es-remove-custom {
+        height: 16px;
+      }
+    }
+  }
+
+  &.es-field-area, &.es-field-lot_size {
+    .es-field__content {
+      input:first-child, select:first-child {
+        flex: 1 0 68%;
+      }
+    }
+  }
+}
